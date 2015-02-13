@@ -1,3 +1,8 @@
+/**
+ *  file: ex20.c
+ *  Zed debug macros driver main
+ **/
+
 #include "dbg.h"
 #include <stdlib.h>
 #include <stdio.h>

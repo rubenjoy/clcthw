@@ -1,3 +1,7 @@
+/**
+ * file: ex17.c
+ * database pointer
+ **/
 #include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>
